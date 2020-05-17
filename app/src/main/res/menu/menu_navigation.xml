@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/ic_home"/>
+    <item
+        android:id="@+id/like"
+        android:title="Disukai"
+        android:icon="@drawable/ic_love_and_romance"/>
+    <item
+        android:id="@+id/promo"
+        android:title="Promo"
+        android:icon="@drawable/ic_shopping"/>
+    <item
+        android:id="@+id/chat"
+        android:title="Chat"
+        android:icon="@drawable/ic_interface_white"/>
+    <item
+        android:id="@+id/akun"
+        android:title="Akun"
+        android:icon="@drawable/ic_social"/>
+</menu>
